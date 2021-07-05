@@ -13,7 +13,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "@google-cloud/firestore": "^4.1.1",
+    "@google-cloud/firestore": "^4.13.1",
     "@types/unzipper": "^0.10.3",
     "concurrently": "^5.2.0",
     "cors": "^2.8.5",
